@@ -41,7 +41,4 @@ This website aims to provide an engaging and educational platform for users to t
 <div align="center">
   <h2>ERR Diagram</h2>
 </div><hr>
-![Untitled Diagram](https://github.com/user-attachments/assets/dd3720fa-2a31-4a04-bec4-b8b7d3e70653)
-
-
 
