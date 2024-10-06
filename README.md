@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Quiz-Master</h1>
 </div>
-Introduction
+<h3></h3>Introduction :</h3><br>
 This report provides a comprehensive overview of the development and functionality of a quiz-based website. The website is designed to offer an engaging platform for users to take quizzes on various topics, view their scores on a scoreboard, and for administrators to manage quiz content efficiently.
 Features and Functionality
 1. Public Access
