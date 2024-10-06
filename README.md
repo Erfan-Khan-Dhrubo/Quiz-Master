@@ -36,4 +36,12 @@ This report provides a comprehensive overview of the development and functionali
 - **Scores Table**: Tracks user scores for each quiz, including username and score.
 
 ## Conclusion
-This website aims to provide an engaging and educational platform for users to test their knowledge on various topics. The combination of user-friendly design, robust backend functionality, and comprehensive administrative tools ensures a seamless experience for both users and administrators. By continuously updating quiz content and maintaining a transparent scoreboard, the website fosters a competitive and interactive learning environment.
+This website aims to provide an engaging and educational platform for users to test their knowledge on various topics. The combination of user-friendly design, robust backend functionality, and comprehensive administrative tools ensures a seamless experience for both users and administrators. By continuously updating quiz content and maintaining a transparent scoreboard, the website fosters a competitive and interactive learning environment.<br><br>
+
+<div align="center">
+  <h2>ERR Diagram</h2>
+</div><hr>
+![Untitled Diagram](https://github.com/user-attachments/assets/dd3720fa-2a31-4a04-bec4-b8b7d3e70653)
+
+
+
