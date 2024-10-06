@@ -1,4 +1,4 @@
-# Quiz-Master
+<center># Quiz-Master </center>
 # Introduction
 This report provides a comprehensive overview of the development and functionality of a quiz-based website. The website is designed to offer an engaging platform for users to take quizzes on various topics, view their scores on a scoreboard, and for administrators to manage quiz content efficiently.
 Features and Functionality
