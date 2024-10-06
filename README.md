@@ -40,5 +40,62 @@ This website aims to provide an engaging and educational platform for users to t
 
 <div align="center">
   <h2>ERR Diagram</h2>
-</div><hr>
+</div><hr><br>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/cd82a79e-ce8b-4f0d-a4bf-b84dc80523b1" alt="Description of Image">
+</div><br><br>
+
+<div align="center">
+  <h2>Schema Diagram</h2>
+</div><hr><br>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6821c599-885c-4cfa-bb1e-dd1382e7248c" alt="Description of Image">
+</div><br><br>
+
+
+## Installation Instructions
+
+1. **Download and Extract Files**:
+   - Download the required file and extract its contents.
+
+2. **Install XAMPP**:
+   - Download and install XAMPP.
+   - Move the extracted files to the `htdocs` directory within the XAMPP installation folder.
+
+3. **Start XAMPP Services**:
+   - Open the XAMPP Control Panel.
+   - Start both Apache and MySQL services.
+
+4. **Create Database**:
+   - Open your web browser and navigate to `/localhost/phpmyadmin/`.
+   - Create a new database named `my_project`.
+
+5. **Create Tables**:
+   - In the `my_project` database, create a table named `user_info` with the following columns:
+     - `no` (auto-increment)
+     - `name`
+     - `password`
+     - `confirm`
+     - `confirm_pass`
+     - `quiz_taken`
+   - Create another table named `scoreboard` with these columns:
+     - `id` (auto-increment)
+     - `name`
+     - `user_name`
+     - `score`
+   - Create a third table named `quiz` with the columns:
+     - `serial_no` (auto-increment)
+     - `name`
+
+6. **Access the Project**:
+   - Open a new browser tab and navigate to `/localhost/my_project/home.php` to view your project.
+
+![Screenshot 2024-10-07 000120](https://github.com/user-attachments/assets/0f98ca36-6da1-4f1c-8243-42b565ae8a27)
+
+![Screenshot 2024-10-07 000204](https://github.com/user-attachments/assets/20bbd6c3-1c51-4546-94ef-93266a645094)
+
+![Screenshot 2024-10-07 000806](https://github.com/user-attachments/assets/7d1f20a8-0986-44f0-af1e-db2a58281c59)
+
 
