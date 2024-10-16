@@ -90,7 +90,7 @@ This website aims to provide an engaging and educational platform for users to t
      - `name`
 
 6. **Access the Project**:
-   - Open a new browser tab and navigate to `/localhost/my_project/home.php` to view your Project.
+   - Open a new browser tab and navigate to `/localhost/my_project/home.php` to view the project.
 
 ![Screenshot 2024-10-07 000120](https://github.com/user-attachments/assets/0f98ca36-6da1-4f1c-8243-42b565ae8a27)
 
