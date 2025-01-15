@@ -58,7 +58,7 @@ This website aims to provide an engaging and educational platform for users to t
 ## Installation Instructions
 
 1. **Download and Extract Files**:
-   - Download the required file and extract its contents.
+   - Download the required file and extract its contents or clone the git.
 
 2. **Install XAMPP**:
    - Download and install XAMPP.
