@@ -99,3 +99,6 @@ This website aims to provide an engaging and educational platform for users to t
 ![Screenshot 2024-10-07 000806](https://github.com/user-attachments/assets/7d1f20a8-0986-44f0-af1e-db2a58281c59)
 
 
+## LICENSE
+
+This project is licensed under the terms of the [MIT License](LICENSE). 
